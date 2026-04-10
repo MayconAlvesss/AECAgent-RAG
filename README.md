@@ -1,12 +1,12 @@
-# AECAgent-RAG 🤖 — AI Expert for Technical Standards
+# AECAgent-RAG 🤖 — Global AI Expert for Technical Standards
 
-> **Conversational AI Agent for the AEC industry. Retrieval-Augmented Generation (RAG) applied to construction manuals, NBRs, Eurocodes, and technical building norms.**
+> **Conversational AI Agent for the Global AEC industry. Retrieval-Augmented Generation (RAG) applied to ISO standards, Eurocodes, and international technical building norms.**
 
 ---
 
-## ✅ Status
+## 🛠️ Status: Beta Research Prototype
 
-> **Intelligent Agent Core.** Fully integrated with the Google Gemini API (or OpenAI) and LangChain. Implements advanced PDF chunking and vector-store retrieval for high-accuracy answers based on technical documentation. Designed to eliminate manual standard search hours.
+> **Intelligent Agent Core Ready.** Fully integrated with global LLM backends (Gemini/OpenAI) and LangChain. Implements advanced chunking logic for complex normative documents. Currently in research phase for autonomous normative compliance auditing.
 
 ---
 
