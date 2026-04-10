@@ -4,9 +4,9 @@
 
 ---
 
-## 🛠️ Status: Beta Research Prototype
+## 🧪 Status: Concept / Scaffold
 
-> **Intelligent Agent Core Ready.** Fully integrated with global LLM backends (Gemini/OpenAI) and LangChain. Implements advanced chunking logic for complex normative documents. Currently in research phase for autonomous normative compliance auditing.
+> **Architecture & Vision.** This repository documents the systemic blueprints and product vision for AI-driven normative RAG agents. Active implementation is currently paused while the project serves as a conceptual framework for international technical compliance.
 
 ---
 
