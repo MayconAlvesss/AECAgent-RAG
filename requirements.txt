@@ -1,0 +1,8 @@
+langchain
+google-generativeai
+chromadb
+pypdf2
+unstructured
+pydantic-settings
+python-dotenv
+pytest
