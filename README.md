@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://img.icons8.com/wired/128/007ACC/artificial-intelligence.png" width="80" />
 </p>
+> **Status:** Concept (2028+)
+
 
 # <p align="center">AECAgent-RAG</p>
 
