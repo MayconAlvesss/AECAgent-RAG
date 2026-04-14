@@ -1,10 +1,15 @@
 <p align="center">
   <img src="https://img.icons8.com/wired/128/007ACC/artificial-intelligence.png" width="80" />
 </p>
-> **Status:** Concept (2028+)
+
 
 
 # <p align="center">AECAgent-RAG</p>
+
+> [!IMPORTANT]
+> **Project Status: Concept / Scaffold (2028+)**
+> This repository is part of Maycon Alves' technical vision for the AEC Tech ecosystem. It is currently in the **concept and initial architecture phase**. Full development and core implementation will resume after the author returns from his mission in **2028**.
+
 
 <p align="center">
   <strong>Intelligent Retrieval-Augmented Generation for Technical Building Standards.</strong><br>
